@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:**
-**Name:** Beray  
+**Name:** Emre Beray  
 **Surname:** Boztepe  
 **Email:** berayboztepe@outlook.com  
 
