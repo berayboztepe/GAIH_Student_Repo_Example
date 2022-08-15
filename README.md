@@ -7,13 +7,12 @@
 **Surname:** Boztepe  
 **Email:** berayboztepe@outlook.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
-
 ## Project Name
-Here is my homeworks, final project and certificate for the course that've been given by Global AI Hub
+-Here is my homeworks, final project and certificate for the course that've been given by Global AI Hub.
 
-## Requirements
-Some python libraries
+-In this project, wine_quality dataset has been imported and the main goal of the project is to build classification models to decide which one is better.
+
+-Also, EDA has been performed to improve the performance of the model. Possible overfitting and underfitting problems have been tried to prevent.
 
 ---
 
