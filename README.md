@@ -8,11 +8,11 @@
 **Email:** berayboztepe@outlook.com  
 
 ## Project Name
--Here is my homeworks, final project and certificate for the course that've been given by Global AI Hub.
+- Here are my homework, final project, and certificate for the course that've been given by Global AI Hub.
 
--In this project, wine_quality dataset has been imported and the main goal of the project is to build classification models to decide which one is better.
+- In this project, the wine_quality dataset has been imported, and the main goal of the project is to build classification models to decide which one is better.
 
--Also, EDA has been performed to improve the performance of the model. Possible overfitting and underfitting problems have been tried to prevent.
+- Also, EDA has been performed to improve the performance of the model. Possible overfitting and underfitting problems have been tried to prevent.
 
 ---
 
